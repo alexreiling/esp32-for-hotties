@@ -1,0 +1,1 @@
+/Users/alex/code/alex/dotfiles/agentic-coding/rules/development/incremental-delivery.md

@@ -1,0 +1,1 @@
+/Users/alex/code/alex/dotfiles/agentic-coding/rules/agent-config/interoperable-rules.md
