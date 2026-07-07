@@ -8,4 +8,5 @@
 .vscode/c_cpp_properties.json
 .vscode/ipch/
 .vscode/launch.json
+.agents/
 compile_commands.json
