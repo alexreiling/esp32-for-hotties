@@ -2,6 +2,7 @@
 
 # PlatformIO build output
 .pio/
+.platformio-core/
 
 # Generated IDE files
 .vscode/.browse.c_cpp.db*
